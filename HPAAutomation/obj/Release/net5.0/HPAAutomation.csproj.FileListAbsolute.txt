@@ -1,0 +1,15 @@
+C:\Users\MCNABBMR\Documents\HPA Coding Challenge\HPAAutomation\HPAAutomation\bin\Release\net5.0\HPAAutomation.exe
+C:\Users\MCNABBMR\Documents\HPA Coding Challenge\HPAAutomation\HPAAutomation\bin\Release\net5.0\HPAAutomation.deps.json
+C:\Users\MCNABBMR\Documents\HPA Coding Challenge\HPAAutomation\HPAAutomation\bin\Release\net5.0\HPAAutomation.runtimeconfig.json
+C:\Users\MCNABBMR\Documents\HPA Coding Challenge\HPAAutomation\HPAAutomation\bin\Release\net5.0\HPAAutomation.runtimeconfig.dev.json
+C:\Users\MCNABBMR\Documents\HPA Coding Challenge\HPAAutomation\HPAAutomation\bin\Release\net5.0\HPAAutomation.dll
+C:\Users\MCNABBMR\Documents\HPA Coding Challenge\HPAAutomation\HPAAutomation\bin\Release\net5.0\ref\HPAAutomation.dll
+C:\Users\MCNABBMR\Documents\HPA Coding Challenge\HPAAutomation\HPAAutomation\bin\Release\net5.0\HPAAutomation.pdb
+C:\Users\MCNABBMR\Documents\HPA Coding Challenge\HPAAutomation\HPAAutomation\obj\Release\net5.0\HPAAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCNABBMR\Documents\HPA Coding Challenge\HPAAutomation\HPAAutomation\obj\Release\net5.0\HPAAutomation.AssemblyInfoInputs.cache
+C:\Users\MCNABBMR\Documents\HPA Coding Challenge\HPAAutomation\HPAAutomation\obj\Release\net5.0\HPAAutomation.AssemblyInfo.cs
+C:\Users\MCNABBMR\Documents\HPA Coding Challenge\HPAAutomation\HPAAutomation\obj\Release\net5.0\HPAAutomation.csproj.CoreCompileInputs.cache
+C:\Users\MCNABBMR\Documents\HPA Coding Challenge\HPAAutomation\HPAAutomation\obj\Release\net5.0\HPAAutomation.dll
+C:\Users\MCNABBMR\Documents\HPA Coding Challenge\HPAAutomation\HPAAutomation\obj\Release\net5.0\ref\HPAAutomation.dll
+C:\Users\MCNABBMR\Documents\HPA Coding Challenge\HPAAutomation\HPAAutomation\obj\Release\net5.0\HPAAutomation.pdb
+C:\Users\MCNABBMR\Documents\HPA Coding Challenge\HPAAutomation\HPAAutomation\obj\Release\net5.0\HPAAutomation.genruntimeconfig.cache
